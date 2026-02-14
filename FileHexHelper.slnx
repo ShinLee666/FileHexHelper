@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FileHexHelper.vcxproj" Id="89f80a1e-705a-4c1c-8b46-62b64b411c82" />
+</Solution>
